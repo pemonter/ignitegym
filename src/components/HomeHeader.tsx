@@ -11,7 +11,7 @@ export function HomeHeader() {
       <UserPhoto
         source={{ uri: 'https://github.com/pemonter.png' }}
         size={16}
-        alt="Imagem de perfil do usuário"
+        alt="Foto de perfil do usuário"
         mr={4}
       />
 
