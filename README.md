@@ -43,9 +43,9 @@ Então será apresentado um menu com as opções listadas abaixo:
 
 Selecione a de sua preferência e aguarde o app executar em seu emulador.
 
-:warning: **O ip poderá sofrer alterações de máquina para máquina, portanto é necessário verificar em qual ip seu projeto está executando, isso pode ser feito logo após executar o expo start, exemplo:  ```› Metro waiting on exp://192.168.1.10:19000```.**
+> :warning: **O ip poderá sofrer alterações de máquina para máquina, portanto é necessário verificar em qual ip seu projeto está executando, isso pode ser feito logo após executar o expo start, exemplo:  ```› Metro waiting on exp://192.168.1.10:19000```.**
 
-:warning: **Caso esteja diferente deste exemplo, basta acessar o seguinte caminho em seu projeto: ```src > services > api.ts```, procure por ```baseURL``` no arquivo ```api.ts```, e insira o seu endereço ip. Exemplo: ```baseURL: 'http://192.168.1.11:3333'```**
+> :warning: **Caso esteja diferente deste exemplo, basta acessar o seguinte caminho em seu projeto: ```src > services > api.ts```, procure por ```baseURL``` no arquivo ```api.ts```, e insira o seu endereço ip. Exemplo: ```baseURL: 'http://192.168.1.11:3333'```**
 
 ## Executar o back-end
 
